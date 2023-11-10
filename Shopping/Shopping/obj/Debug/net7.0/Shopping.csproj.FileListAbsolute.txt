@@ -1,0 +1,15 @@
+/Users/alexanderlagerqvist/Projects/Shopping/Shopping/bin/Debug/net7.0/Shopping
+/Users/alexanderlagerqvist/Projects/Shopping/Shopping/bin/Debug/net7.0/Shopping.deps.json
+/Users/alexanderlagerqvist/Projects/Shopping/Shopping/bin/Debug/net7.0/Shopping.runtimeconfig.json
+/Users/alexanderlagerqvist/Projects/Shopping/Shopping/bin/Debug/net7.0/Shopping.dll
+/Users/alexanderlagerqvist/Projects/Shopping/Shopping/bin/Debug/net7.0/Shopping.pdb
+/Users/alexanderlagerqvist/Projects/Shopping/Shopping/obj/Debug/net7.0/Shopping.csproj.AssemblyReference.cache
+/Users/alexanderlagerqvist/Projects/Shopping/Shopping/obj/Debug/net7.0/Shopping.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexanderlagerqvist/Projects/Shopping/Shopping/obj/Debug/net7.0/Shopping.AssemblyInfoInputs.cache
+/Users/alexanderlagerqvist/Projects/Shopping/Shopping/obj/Debug/net7.0/Shopping.AssemblyInfo.cs
+/Users/alexanderlagerqvist/Projects/Shopping/Shopping/obj/Debug/net7.0/Shopping.csproj.CoreCompileInputs.cache
+/Users/alexanderlagerqvist/Projects/Shopping/Shopping/obj/Debug/net7.0/Shopping.dll
+/Users/alexanderlagerqvist/Projects/Shopping/Shopping/obj/Debug/net7.0/refint/Shopping.dll
+/Users/alexanderlagerqvist/Projects/Shopping/Shopping/obj/Debug/net7.0/Shopping.pdb
+/Users/alexanderlagerqvist/Projects/Shopping/Shopping/obj/Debug/net7.0/Shopping.genruntimeconfig.cache
+/Users/alexanderlagerqvist/Projects/Shopping/Shopping/obj/Debug/net7.0/ref/Shopping.dll
